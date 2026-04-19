@@ -160,7 +160,9 @@ Built as local async functions simulating real API calls:
 
 ## 📸 Screenshots
 
-> Add screenshots of your running app here before submitting
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ed98ee39-d17d-4be1-9ab9-387e7b344283" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8ba2b24-1de7-45ec-bbfe-c257c881b4ae" />
+
 
 ---
 
